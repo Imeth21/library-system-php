@@ -7,7 +7,7 @@
           echo $StudentName."<br>".$StudentID."<br>".$DegreeProgram."<br>".$Batch."<br>";
 
          
-
+//database details
  $servername="localhost";
  $username="root";
  $password="";
